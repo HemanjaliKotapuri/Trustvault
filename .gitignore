@@ -1,0 +1,10 @@
+﻿venv/
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+private_uploads/
+seed.py
+.env
+.env.*
+!.env.example
